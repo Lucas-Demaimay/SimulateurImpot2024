@@ -1,7 +1,7 @@
 package com.kerware.simulateur;
 
 public class AdaptateurSimulateur implements ICalculateurImpot {
-
+    /* Test Jenkins */
     private Simulateur simulateur = new Simulateur();
 
     private int revenusNetDecl1 = 0;
